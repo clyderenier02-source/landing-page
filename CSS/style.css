@@ -1,0 +1,28 @@
+nav {
+    background-color: #7B5CFB;
+}
+
+footer {
+    background-color: #7B5CFB;
+    color: white;
+}
+
+button.btn.btn-primary {
+    background-color: #7B5CFB;
+    border: none;
+}
+
+button.btn.btn-primary:hover {
+    background-color: #7c5cfb96;
+}
+
+
+:root {
+    --bs-primary: #7B5CFB;
+    --bs-primary-rgb: 123, 92, 251;
+    --bs-font-sans-serif: "Poppins", sans-serif;
+}
+
+body {
+    font-family: var(--bs-font-sans-serif);
+}
